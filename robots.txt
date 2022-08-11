@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ktai88.github.io/portfolio-website/sitemap.xml
