@@ -3,27 +3,31 @@
     <title>Kevin Tai</title>
     <link href="https://ktai88.github.io/portfolio-website/feed.xml" rel="self" />
     <link href="https://ktai88.github.io/portfolio-website" />
-    <updated>2022-08-11T21:07:44+02:00</updated>
+    <updated>2022-08-11T21:35:25+02:00</updated>
     <author>
         <name>Kevin Tai</name>
     </author>
     <id>https://ktai88.github.io/portfolio-website</id>
 
     <entry>
-        <title>Test</title>
+        <title>My first blogpost</title>
         <author>
             <name>Kevin Tai</name>
         </author>
         <link href="https://ktai88.github.io/portfolio-website/test/"/>
         <id>https://ktai88.github.io/portfolio-website/test/</id>
 
-        <updated>2022-08-11T21:07:44+02:00</updated>
-            <summary></summary>
+        <updated>2022-08-11T21:35:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    
+    Testing
   </p>
             ]]>
         </content>

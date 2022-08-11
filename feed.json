@@ -12,15 +12,16 @@
         {
             "id": "https://ktai88.github.io/portfolio-website/test/",
             "url": "https://ktai88.github.io/portfolio-website/test/",
-            "title": "Test",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "title": "My first blogpost",
+            "summary": "Testing",
+            "content_html": "\n  <p>\n    Testing\n  </p>",
             "author": {
                 "name": "Kevin Tai"
             },
             "tags": [
             ],
             "date_published": "2022-08-11T21:07:44+02:00",
-            "date_modified": "2022-08-11T21:07:44+02:00"
+            "date_modified": "2022-08-11T21:35:25+02:00"
         }
     ]
 }
